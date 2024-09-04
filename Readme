@@ -6,8 +6,23 @@ npm create vue@latest
 
 
 
+# frondend
+
 cd vue_alpha
 npm install
 npm run format
 npm run dev
+
+
+
+# backend fastapi
+
+source .venv/bin/activate
+
+(.venv) cd backend_service/backend_service/
+(.venv) uvicorn main:app --reload
+
+
+
+
 
