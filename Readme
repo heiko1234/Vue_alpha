@@ -1,0 +1,13 @@
+
+
+# creation with
+
+npm create vue@latest
+
+
+
+cd vue_alpha
+npm install
+npm run format
+npm run dev
+
